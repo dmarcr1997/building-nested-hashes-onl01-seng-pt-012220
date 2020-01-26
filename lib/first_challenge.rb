@@ -1,3 +1,4 @@
 def first_challenge
-   epic_tragedy = {"Montague": ,"Cap"}
+   epic_tragedy = {montague: {} ,
+   capulet: {}}
 end
